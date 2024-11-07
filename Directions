@@ -1,0 +1,9 @@
+Download Qoffee.ipynb
+
+qBraid or env
+
+
+Go to IBM Quantum Composer in the Resources file
+
+Make sure that there are 3 qubits (q[0], q[1], q[2]). Classical bits do not matter for this exercise but are important in implementing real quantum circuits.
+
