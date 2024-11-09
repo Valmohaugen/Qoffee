@@ -1,5 +1,6 @@
 # Qoffee
-This is an activity for the Qiskit Fall Fest 2024 at Clemson University.
+We aim to introduce quantum circuits at a basic level using the Aer Simulator and real IBM hardware.
+Below are directions to be able to use the notebook.
 
 1. Download Qoffee Maker Walkthrough.ipynb
 2. Go to https://account.qbraid.com/
