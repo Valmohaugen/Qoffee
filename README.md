@@ -11,6 +11,6 @@ Below are directions to be able to use the notebook.
 7. Search "Qiskit" and select "Qiskit v1.2.0"
 8. Install the environment
 9. Select "Python 3 [Qiskit v1.2.0]" under the "Notebook" section in the "Environment" tab
-11. Upload Qoffee Maker Walkthrough.ipynb with the up arrow in the top left below "View"
-12. Make sure you are in the "Python 3 [Qiskit v1.2.0]" kernel
-13. Follow along in the walkthrough
+10. Upload Qoffee Maker Walkthrough.ipynb with the up arrow in the top left below "View"
+11. Make sure you are in the "Python 3 [Qiskit v1.2.0]" kernel
+12. Follow along in the walkthrough
