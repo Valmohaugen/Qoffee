@@ -1,4 +1,4 @@
-# Qoffee
+# Qoffee Maker Activity
 We aim to introduce quantum circuits at a basic level using the Aer Simulator and real IBM hardware.
 Below are directions to be able to use the notebook.
 
